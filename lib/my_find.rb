@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def my_find(collection)
   i = log10while i < collection.length 
