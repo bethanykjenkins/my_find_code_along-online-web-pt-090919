@@ -1,7 +1,9 @@
 
 
 def my_find(collection)
-  i = log10while i < collection.length 
+  i = 0 
+  while i < collection.length 
+  return collection [i] if
   yield (collection[i])
   i = i + 1 
 end
